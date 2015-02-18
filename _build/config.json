@@ -1,7 +1,5 @@
 {
-  "host":"localhost",
-  "baseURL":"webBoilerplate",
-  "homeURL": "http://localhost/webBoilerplate",
+  "baseURL":"requireJSBoilerplate",
 
   "sassDir":"../_dev/scss",
   "iconsDir":"../_dev/icons",
