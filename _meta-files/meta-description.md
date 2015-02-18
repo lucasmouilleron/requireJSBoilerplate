@@ -1,4 +1,4 @@
-Our web boilerplate.
+Our requireJS boilerplate.
 
 - Based on http://html5boilerplate.com
 - Stack : scss, requirejs, bootstrap
