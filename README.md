@@ -3,8 +3,8 @@ requireJSBoilerplate
 
 Features
 --------
-- A nice frontend boiler plate
-- Stack : scss, requirejs, bootstrap, fontawesome
+- A nice frontend requireJS boilerplate
+- Stack : requirejs, compass, bootstrap, fontawesome
 - Build : install, build, watch, grunt, bower
 
 Install requirements
